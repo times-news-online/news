@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://times-news-online.github.io/news/sitemap.xml
